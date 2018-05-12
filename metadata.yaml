@@ -1,0 +1,47 @@
+_repo: In-Greek-Waters--A-Story-of-The-Grecian-War-of-Independence_42276
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stacey, W. S. (Walter S.)
+    aliases:
+    - Stacey, Walter S.
+    - Stacey, W.S.
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '9723'
+    url: http://www.gutenberg.org/2009/agents/9723
+covers:
+- cover_type: archival
+  image_path: 42276-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_issued: '2013-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42276'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rescues -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'Prisoners -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Greece -- History -- War of Independence, 1821-1829 -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Fathers and sons -- Juvenile fiction'
+title: 'In Greek Waters: A Story of the Grecian War of Independence'
+url: http://www.gutenberg.org/ebooks/42276
